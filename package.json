@@ -1,0 +1,28 @@
+{
+  "name": "db409938",
+  "version": "1.0.0",
+  
+  "description": "common toolkit", 
+  "keywords": ["utils", "format", "money", "phone"], 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/db409938/about.git"
+  },
+  "license": "ISC", 
+  "main": "index.js", 
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"jw330434": "^1.0.0",
+	"jw330434-one": "^1.0.0",
+  	"dg289180": "^1.0.0",
+	"dg289180-one": "^1.0.0",
+  	"guzibiji": "^1.0.0"
+  },
+  "devDependencies": {
+    
+  }
+
+}
